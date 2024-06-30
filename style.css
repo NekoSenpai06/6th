@@ -1,0 +1,41 @@
+*  {
+     margin: 0;
+     padding: 0;
+}
+
+body {
+     background-image: url("images.png");
+     background-size: cover;
+}
+
+h3 {
+     text-align: center;
+     margin-top: 10px;
+     font-family: courier;
+     background-color: rgba(211, 211, 211, 0.589);
+     color: rgb(255, 255, 255);
+     padding: 10px 10px;
+     width: 50%;
+     margin-right: auto;
+     margin-left: auto;
+     border-radius: 10px;
+     border: 1px solid pink;
+}
+
+div {
+    width: 80%;
+     margin: auto;
+     padding: 15px 5px;
+     margin-top: 30px;
+     background-color: rgba(255, 255, 255, 0.3);
+     text-align: center;
+     border-radius: 10px;
+     border: 1px solid lightblue;
+}
+
+p {
+     margin-left: 10px;
+     margin-right: 10px;
+     font-size: 15px;
+     font-family: verdana;
+}
